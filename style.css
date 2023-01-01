@@ -90,4 +90,107 @@ body{
     margin-right: 30px;
 }
 /*..................................................*/
+.three{
+    background-color: rgb(251, 197, 36);
+    color: black;
+    width: 100%;
+    margin: auto;
+    height:fit-content;
+    text-align: center;
+  }
+.three h1{
+    font-size: 52px;
+    text-align: center;
+}
+.three img{
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    width: 350px;
+    height: 425px;
+    padding:0 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.content{
+    text-align: center;
+}
+.content h2{
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    padding: 0% 130px;
+    display:inline-block;
+   
+}
 
+
+.content p{
+    font-size: 22px;
+    font-weight: 100;
+    padding: 0 122px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+/*..................................................*/
+
+
+.four{
+    background-color:rgb(43, 82, 43);
+    color: black;
+    width: 100%;
+    margin: auto;
+    height: 500px;
+   
+}
+.four img{
+    width: 55%;      /* change the size of photo*/
+    height: 500px;
+    float: left;
+}
+.four h1{
+    font-size: 60px;
+ margin-left: 60%;
+ font-weight: bold;
+   
+}
+.four p{
+    font-size: 25px;
+    margin-left: 60%;
+  
+    
+}
+/** --------  5---------*/
+.five{
+    background-color: rgb(163, 163, 163);
+    color: rgb(4, 3, 3);
+    width: 100%;
+    margin: auto;
+    height: 615px;
+}
+.five h1{
+    font-size: 70px;
+    margin-left: 5%;
+}
+.five img{
+    width: 45%;
+    margin-left: 100px;
+    height: 615px;
+    float: right;
+}
+.five p{
+    font-size: 30px;
+    font-weight: 100px;
+    margin-left: 5%;
+}
+.five #green{
+    background-color: rgb(219, 102, 44);
+    color: black;
+    padding: 20px;
+    width: fit-content;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-left: 5%;
+}
